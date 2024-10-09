@@ -1,0 +1,26 @@
+[project]
+name = "ReadDocx"
+version = "0.0.1"
+authors = [
+  { name="CHUA某人", email="chua-x@outlook.com" },
+]
+description = "ReadDocx ——直接提取Word文档（不包含样式信息）"
+readme = "README.md"
+requires-python = ">=3.6"
+classifiers=[
+        "Development Status :: 3 - Alpha",
+        "Programming Language :: Python",
+        "Programming Language :: Python :: 3",
+        "Programming Language :: Python :: 3 :: Only",
+        "License :: OSI Approved :: MIT License",
+        "Natural Language :: Chinese (Simplified)",
+        "Natural Language :: English",
+        "Operating System :: Unix",
+        "Operating System :: POSIX :: Linux",
+        "Operating System :: MacOS :: MacOS X",
+        "Operating System :: Microsoft :: Windows",
+    ]
+
+[project.urls]
+"Homepage" = "https://github.com/CHUA-X/ReadDocx"
+"Bug Tracker" = "https://github.com/CHUA-X/ReadDocx/issues"

@@ -1,0 +1,9 @@
+LICENSE
+README.md
+pyproject.toml
+setup.py
+src/ReadDocx.egg-info/PKG-INFO
+src/ReadDocx.egg-info/SOURCES.txt
+src/ReadDocx.egg-info/dependency_links.txt
+src/ReadDocx.egg-info/top_level.txt
+src/readdocx/__init__.py
